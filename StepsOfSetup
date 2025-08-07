@@ -1,0 +1,3 @@
+We Created Different Folders For Different Code Like Frontend Have Another Folder And Backend Have Another Folder Like That .
+Now For Deleting Public From Url Just Move index.php and .htacces to root folder 
+Now Open index.php and find require FCPATH . '../app/Config/Paths.php'; And Replace It With require FCPATH . 'app/Config/Paths.php';
