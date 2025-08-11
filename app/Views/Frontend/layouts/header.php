@@ -10,7 +10,7 @@
 
     <title>Trishulas Tech </title>
 
-    <link rel="shortcut icon" type="image/x-icon" href="<?= base_url('assets/img/trishulaslogo.png') ?>">
+    <link rel="shortcut icon" type="image/x-icon" href="<?= base_url('assets/img/titlelogo.png') ?>">
 
     <link rel="stylesheet" href="<?= base_url('assets/css/bootstrap.min.css') ?>">
     <link rel="stylesheet" href="<?= base_url('assets/css/animate.min.css') ?>">

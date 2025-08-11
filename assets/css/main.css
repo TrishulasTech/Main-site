@@ -81,6 +81,7 @@ header.main-header.transparent.sticky-fixed-top {
 .navigation-inner .site-logo {
     max-width: 300px;
     margin-left: 0;
+    padding-left: -10px;
 }
 
 .header-right {

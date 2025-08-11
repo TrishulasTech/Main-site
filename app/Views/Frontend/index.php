@@ -54,35 +54,9 @@
 </section>
 <!--/.hero-section-->
 
-<div class="sponsor-section padding">
-    <div class="container">
-        <div class="sponsor-carousel">
-            <div class="swiper-wrapper">
-                <div class="swiper-slide">
-                    <a href="#"><img src="<?= base_url('assets/img/client-img-1.png') ?>" alt="sponsor"></a>
-                </div>
-                <div class="swiper-slide">
-                    <a href="#"><img src="<?= base_url('assets/img/client-img-2.png') ?>" alt="sponsor"></a>
-                </div>
-                <div class="swiper-slide">
-                    <a href="#"><img src="<?= base_url('assets/img/client-img-3.png') ?>" alt="sponsor"></a>
-                </div>
-                <div class="swiper-slide">
-                    <a href="#"><img src="<?= base_url('assets/img/client-img-4.png') ?>" alt="sponsor"></a>
-                </div>
-                <div class="swiper-slide">
-                    <a href="#"><img src="<?= base_url('assets/img/client-img-5.png') ?>" alt="sponsor"></a>
-                </div>
-                <div class="swiper-slide">
-                    <a href="#"><img src="<?= base_url('assets/img/client-img-6.png') ?>" alt="sponsor"></a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 <!--/.sponsor-section-->
 
-<section class="promo-section padding-bottom">
+<section class="promo-section padding padding-bottom">
     <div class="container">
         <div class="section-heading-wrap">
             <div class="section-heading mb-40">
