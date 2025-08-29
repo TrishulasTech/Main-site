@@ -5,10 +5,9 @@ Options -Indexes
     RewriteEngine On
     Options +FollowSymlinks
 
-    # If you installed in a subfolder, set RewriteBase accordingly:
-    # For example, if your project is at http://localhost/trishulastech, use:
+    # If installed in a subfolder, set RewriteBase:
     # RewriteBase /trishulastech
-    # If it's root (http://localhost/), leave it commented
+    # If root directory, keep it commented
     # RewriteBase /
 
     # Redirect Trailing Slashes...
@@ -19,7 +18,6 @@ Options -Indexes
     # Remove index.php from URL
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteCond %{REQUEST_URI} !^/index\.php
     RewriteRule ^(.*)$ index.php/$1 [L]
 
     # Ensure Authorization header is passed along
@@ -28,8 +26,11 @@ Options -Indexes
 </IfModule>
 
 <IfModule !mod_rewrite.c>
-    ErrorDocument 404 index.php
+    ErrorDocument 404 /index.php
 </IfModule>
 
-# Security headers (Optional)
+# Security headers
 ServerSignature Off
+Header always set X-Content-Type-Options "nosniff"
+Header always set X-Frame-Options "SAMEORIGIN"
+Header always set X-XSS-Protection "1; mode=block"

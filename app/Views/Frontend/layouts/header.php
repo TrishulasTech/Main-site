@@ -5,12 +5,21 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Softgen Software and Technology HTML5 Template">
-    <meta name="author" content="ThemeEaster">
+    <meta name="description" content="Trishulas Tech provides expert website development, mobile app development, and application solutions tailored to your business.">
+    <meta name="keywords" content="Trishulas Tech, website development, app development, application services, software company, tech solutions">
+    <meta name="author" content="Trishulas Tech">
 
-    <title>Trishulas Tech </title>
+    <!-- Open Graph Meta Tags (for better social media sharing) -->
+    <meta property="og:title" content="Trishulas Tech | Website & App Development Experts">
+    <meta property="og:description" content="We specialize in creating professional websites, mobile apps, and custom applications to grow your business.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://trishulastech.com">
 
-    <link rel="shortcut icon" type="image/x-icon" href="<?= base_url('assets/img/titlelogo.png') ?>">
+    
+
+    <title>Trishulas Tech | Website & App Development </title>
+
+    <link rel="shortcut icon" type="image/x-icon" href="<?= base_url('assets/img/logo/favicon.png') ?>">
 
     <link rel="stylesheet" href="<?= base_url('assets/css/bootstrap.min.css') ?>">
     <link rel="stylesheet" href="<?= base_url('assets/css/animate.min.css') ?>">
@@ -40,7 +49,7 @@
             <div class="navigation-wrapper">
                 <div class="navigation-inner">
                     <div class="site-logo">
-                        <a href='index.html'><img src="<?= base_url('assets/img/trishulaslogo.png') ?>" alt="Softgen" width="600" height="auto"></a>
+                        <a href='index.html'><img src="<?= base_url('assets/img/logo/lightmode.png') ?>" alt="Trishulas Tech" width="500" height="62.5"></a>
                     </div>
                     <nav class="navigation-menu">
                         <ul class="main-menu">
@@ -51,7 +60,7 @@
 
                             <li><a href='<?= base_url('/about') ?>'>About Us</a></li>
 
-                            <li><a href='<?= base_url('/projects') ?>'>Projects</a>
+                            <li><a href="<?= base_url('/projects') ?>">Projects</a>
 
                             </li>
 

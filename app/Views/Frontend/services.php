@@ -77,8 +77,8 @@
              <div class="col-lg-3 col-md-6 padding-15">
                  <div class="promo-item">
                      <div class="promo-icon"><img src="<?= base_url('assets/img/icons/icon07.png') ?>" alt="icon"></div>
-                     <h3>Content Strategy</h3>
-                     <p>Having marketplace to your branded skilled team of designers and developers.</p>
+                     <h3>NFC Smart Business Cards</h3>
+                     <p>Tap-and-share cards for instant contact sharing, profile links, and digital business presence.</p>
                      <a class='read-more' href='service-details.html'><i class="las la-arrow-right"></i></a>
                  </div>
              </div>

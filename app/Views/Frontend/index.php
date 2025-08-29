@@ -6,8 +6,8 @@
             <div class="col-lg-7 sm-padding">
                 <div class="hero-content">
                     <h3><img class="hand-waving" src="<?= base_url('assets/img/waving-hand.svg') ?>" alt="svg">Engage with your customers instantly.</h3>
-                    <h1>Innovative IT Solutions for a Digital Future!</h1>
-                    <p>Our success in creating business solutions is due in large part to <br>our talented and highly committed team.</p>
+                    <h1>From Ideas to Digital Reality</h1>
+                    <p>Whether it’s a website, mobile app, or custom software, Trishulas Tech <br>turns your vision into powerful solutions.</p>
                     <div class="btn-group">
                         <a class='default-btn' href='contact.html'>Start Free Trial</a>
                         <a class="play-btn venobox" data-vbtype="video" href="https://www.youtube.com/watch?v=ZLaG1migE00">
@@ -60,8 +60,8 @@
     <div class="container">
         <div class="section-heading-wrap">
             <div class="section-heading mb-40">
-                <h2>Build A Future <span class="wow border-animation" data-wow-delay="300ms">Strategy!</span></h2>
-                <p>Our success in creating business solutions is due in large part to <br>our talented and highly committed team.</p>
+                <h2>Build Your Future <span class="wow border-animation" data-wow-delay="300ms">Strategy!</span></h2>
+                <p>Our strength lies in delivering smart digital solutions. With a skilled and dedicated team,<br> Trishulas Tech designs websites, apps, and software that help your business scale and succeed.</p>
             </div>
             <a href="#" class="default-btn">Explore Services</a>
         </div>
@@ -103,37 +103,7 @@
 </section>
 <!--/.promo-section-->
 
-<section class="content-section">
-    <img class="anim-illustration parallax-item" src="<?= base_url('assets/img/element-1.png') ?>" alt="illustration">
-    <img class="anim-illustration parallax-item bottom" src="<?= base_url('assets/img/element-2.png') ?>" alt="illustration">
-    <div class="container">
-        <div class="row content-area padding">
-            <div class="col-lg-6 sm-padding">
-                <div class="content-img-holder">
-                    <div class="content-img wow fade-in-bottom" data-wow-delay="200ms"><img src="<?= base_url('assets/img/uikit01.png') ?>" alt="img"></div>
-                    <div class="content-img wow fade-in-bottom" data-wow-delay="300ms"><img src="<?= base_url('assets/img/uikit02.png') ?>" alt="img"></div>
-                    <div class="element parallax-item"><img src="<?= base_url('assets/img/chat-illustration.png') ?>" alt="illustration"></div>
-                </div>
-            </div>
-            <div class="col-lg-6 sm-padding">
-                <div class="content-info">
-                    <div class="section-heading mb-30 wow fade-in-bottom" data-wow-delay="200ms">
-                        <h2>Manage Everything for <br>Brand and <span class="wow border-animation" data-wow-delay="500ms">Trademark!</span></h2>
-                        <p>Our success in creating business solutions is due in large part spacially to talented and highly committed team.</p>
-                    </div>
-                    <ul class="check-list mb-40 wow fade-in-bottom" data-wow-delay="300ms">
-                        <li><i class="las la-check"></i>Solutions &amp; Integration With Blockchain.</li>
-                        <li><i class="las la-check"></i>AI Machine &amp; Deep Learning</li>
-                        <li><i class="las la-check"></i>Over 100+ Payment Gateways Support</li>
-                        <li><i class="las la-check"></i>Dedicated Support 24/7</li>
-                    </ul>
-                    <a class='default-btn wow fade-in-bottom' data-wow-delay='400ms' href='about.html'>How It Works</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--/.content-section-->
+
 
 <section class="project-section padding">
     <div class="container">
@@ -211,8 +181,8 @@
         <div class="row workflow-wrap padding">
             <div class="col-lg-7 sm-padding">
                 <div class="section-heading mb-40 wow fade-in-left" data-wow-delay="200ms">
-                    <h2>Better Security for Better Protection &amp; <span class="wow border-animation" data-wow-delay="500ms">Strength</span></h2>
-                    <p>Our success in creating business solutions is due in large part spacially to talented and highly committed team.</p>
+                    <h2>Stronger Solutions for Smarter &amp; <span class="wow border-animation" data-wow-delay="500ms">Businesses</span></h2>
+                    <p>Trishulas Tech blends creativity, security, and technology to build websites, apps, and software that grow your business with confidence.</p>
                 </div>
                 <div class="workflow-items">
                     <div class="workflow-item">
@@ -220,8 +190,8 @@
                         <div class="workflow-line"></div>
                         <div class="workfow-count">1</div>
                         <div class="workflow-info wow fade-in-left" data-wow-delay="300ms">
-                            <h3>Financial Strategy</h3>
-                            <p>Having these marketplace to your branded skilled team.</p>
+                            <h3>Smart Business Strategy</h3>
+                            <p>Websites, apps, and software built to match your goals and drive growth.</p>
                         </div>
                     </div>
                     <div class="workflow-item">
@@ -229,8 +199,8 @@
                         <div class="workflow-line"></div>
                         <div class="workfow-count">2</div>
                         <div class="workflow-info wow fade-in-left" data-wow-delay="400ms">
-                            <h3>Message Experience</h3>
-                            <p>Having these marketplace to your branded skilled team.</p>
+                            <h3>Seamless Digital Experience</h3>
+                            <p>Fast, user-friendly solutions that keep your customers engaged.</p>
                         </div>
                     </div>
                     <div class="workflow-item">
@@ -238,8 +208,8 @@
                         <div class="workflow-line"></div>
                         <div class="workfow-count">3</div>
                         <div class="workflow-info wow fade-in-left" data-wow-delay="500ms">
-                            <h3>Data Tracking</h3>
-                            <p>Having these marketplace to your branded skilled team.</p>
+                            <h3>Data-Driven Insights</h3>
+                            <p>Track, analyze, and grow smarter with built-in analytics.</p>
                         </div>
                     </div>
                 </div>
@@ -270,29 +240,29 @@
             </div>
             <div class="col-lg-6 sm-padding">
                 <div class="section-heading mb-40 wow fade-in-bottom" data-wow-delay="200ms">
-                    <h2>Strategies that get you on the Path to <span class="wow border-animation" data-wow-delay="300ms">Success!</span></h2>
-                    <p>Our success in creating business solutions is due in large part spacially to talented and highly committed team.</p>
+                    <h2>Strategies That Put You on the Path to <span class="wow border-animation" data-wow-delay="300ms">Success!</span></h2>
+                    <p>At Trishulas Tech, our strength lies in a talented and committed team that delivers secure, innovative, and result-driven digital solutions for your business.</p>
                 </div>
                 <div class="feature-lists">
                     <div class="feature-item wow fade-in-bottom" data-wow-delay="300ms">
                         <img class="feature-icon" src="<?= base_url('assets/img/icons/icon03.png') ?>" alt="icon">
                         <div class="feature-content">
                             <h3>User Interface</h3>
-                            <p>Having these marketplace to your branded skilled team.</p>
+                            <p>Modern, user-friendly designs that engage instantly.</p>
                         </div>
                     </div>
                     <div class="feature-item wow fade-in-bottom" data-wow-delay="400ms">
                         <img class="feature-icon" src="<?= base_url('assets/img/icons/icon05.png') ?>" alt="icon">
                         <div class="feature-content">
                             <h3>Branding Strategy</h3>
-                            <p>Having these marketplace to your branded skilled team.</p>
+                            <p>Strategies that grow your brand and reach the right audience.</p>
                         </div>
                     </div>
                     <div class="feature-item wow fade-in-bottom" data-wow-delay="500ms">
                         <img class="feature-icon" src="<?= base_url('assets/img/icons/icon15.png') ?>" alt="icon">
                         <div class="feature-content">
                             <h3>Data Analytics</h3>
-                            <p>Having these marketplace to your branded skilled team.</p>
+                            <p>Powerful insights to track, analyze, and scale faster.</p>
                         </div>
                     </div>
                 </div>
@@ -321,8 +291,8 @@
     </div>
     <div class="container">
         <div class="section-heading text-center mb-40 wow fade-in-bottom" data-wow-delay="200ms">
-            <h2>Trusted by Millions <br> of <span class="wow border-animation" data-wow-delay="500ms">Customers.</span></h2>
-            <p>Our success in creating business solutions is due in large part <br> spacially to talented and highly committed team.</p>
+            <h2>Trusted by Growing <br><span class="wow border-animation" data-wow-delay="500ms">Businesses</span></h2>
+            <p>Our dedicated team turns ideas into success.</p>
         </div>
         <div class="row">
             <div class="col-lg-6 offset-lg-3">
@@ -338,10 +308,10 @@
                                         <li><i class="las la-star"></i></li>
                                         <li><i class="las la-star"></i></li>
                                     </ul>
-                                    <p>Softgen is a trusted for providing assistants. Initially their main objective was to ensure service they provide these people are loyal to their industry.</p>
+                                    <p>Trishulas Tech really understands what a business needs. Their creative ideas and technical skills helped us grow online.</p>
                                     <div class="review-author">
-                                        <h3>Félix Lengyel</h3>
-                                        <h4>Corportate .INC</h4>
+                                        <h3>Abhishek Koppa</h3>
+                                        <h4>Digital Marketer</h4>
                                     </div>
                                 </div>
                             </div>
@@ -354,10 +324,10 @@
                                         <li><i class="las la-star"></i></li>
                                         <li><i class="las la-star"></i></li>
                                     </ul>
-                                    <p>Softgen is a trusted for providing assistants. Initially their main objective was to ensure service they provide these people are loyal to their industry.</p>
+                                    <p>Working with Trishulas Tech was a smooth experience. They built our website exactly how we imagined — fast, responsive, and easy to manage.</p>
                                     <div class="review-author">
-                                        <h3>Timothy Paradis</h3>
-                                        <h4>Financial .INC</h4>
+                                        <h3>Chetan Kokare</h3>
+                                        <h4>Wholesale Trader</h4>
                                     </div>
                                 </div>
                             </div>
@@ -370,10 +340,10 @@
                                         <li><i class="las la-star"></i></li>
                                         <li><i class="las la-star"></i></li>
                                     </ul>
-                                    <p>Softgen is a trusted for providing assistants. Initially their main objective was to ensure service they provide these people are loyal to their industry.</p>
+                                    <p>Professional, reliable, and friendly. They don’t just build websites, they guide you through the whole process.</p>
                                     <div class="review-author">
-                                        <h3>Stephen Miller</h3>
-                                        <h4>Business .INC</h4>
+                                        <h3>Sagar Havate</h3>
+                                        <h4>Painting Services</h4>
                                     </div>
                                 </div>
                             </div>
@@ -399,41 +369,41 @@
                 <div id="faq-accordion" class="faq-accordion">
                     <div class="accordion-item active">
                         <h2 class="accordion-header" id="headingTwo">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">What is digital marketing solution? </button>
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">Why does my business need a professional website or app? </button>
                         </h2>
                         <div id="collapseTwo" class="accordion-collapse collapse show" aria-labelledby="headingTwo" data-bs-parent="#faq-accordion">
                             <div class="accordion-body">
-                                <p>Our success in creating business solutions is due in large part spacially to talented and highly committed team. Having these marketplace to your branded skilled team of designers and developers. Our modern sales CRM frees you to maximize productivity, maintain pipeline visibility, and grow revenue.</p>
+                                <p>A professional website or mobile app is like the digital face of your business. Today most customers first search online before buying anything. If you don’t have a proper website or app, you’re already losing potential clients to your competitors. A professional website builds trust, shows your services in a clear way, and makes your business available 24/7. An app makes it even easier for your customers to connect with you directly. In short, it helps you reach more people, look professional, and grow your business faster.</p>
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="headingThree">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> How to improve your online business? </button>
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">How can Trishulas Tech help my business grow?</button>
                         </h2>
                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faq-accordion">
                             <div class="accordion-body">
-                                <p>Our success in creating business solutions is due in large part spacially to talented and highly committed team. Having these marketplace to your branded skilled team of designers and developers. Our modern sales CRM frees you to maximize productivity, maintain pipeline visibility, and grow revenue.</p>
+                                <p>At Trishulas Tech, we don’t just make websites or apps, we focus on creating complete digital solutions that match your goals. For example, if you want more customers, we build a website that’s SEO-friendly so people can find you easily on Google. If you need smooth communication with clients, we design mobile apps that are fast and simple to use. And if your business has unique needs, we develop custom software to save your time and make your operations easier. Our aim is to help your business work smarter, not harder.</p>
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="headingFour">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour"> How to improve maketing strategy?</button>
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">What makes Trishulas Tech different from others?</button>
                         </h2>
                         <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faq-accordion">
                             <div class="accordion-body">
-                                <p>Our success in creating business solutions is due in large part spacially to talented and highly committed team. Having these marketplace to your branded skilled team of designers and developers. Our modern sales CRM frees you to maximize productivity, maintain pipeline visibility, and grow revenue.</p>
+                                <p>There are many companies that build websites and apps, but what makes us different is our approach. We take time to understand your business first, then suggest solutions that actually help you grow. Our team is talented, committed, and treats every project like it’s their own. We focus on security, speed, and long-term reliability — not just quick fixes. Plus, we believe in building long-term relationships, so even after delivering your project, we stay connected for updates, support, and improvements.</p>
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="headingFive">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">How to convince for starting business?</button>
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">Is it worth investing in digital solutions if my business is small?</button>
                         </h2>
                         <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faq-accordion">
                             <div class="accordion-body">
-                                <p>Our success in creating business solutions is due in large part spacially to talented and highly committed team. Having these marketplace to your branded skilled team of designers and developers. Our modern sales CRM frees you to maximize productivity, maintain pipeline visibility, and grow revenue.</p>
+                                <p>Yes, 100%. In fact, small businesses benefit the most from going digital. A good website or app puts you on the same level as bigger competitors in the eyes of customers. Imagine a small shop having an online store — now they can sell to people beyond just their local area. Digital solutions are not as costly as people think, and they bring long-term value. Instead of depending only on word-of-mouth, you get a permanent online presence that keeps attracting new customers every day.</p>
                             </div>
                         </div>
                     </div>

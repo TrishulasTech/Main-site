@@ -20,20 +20,20 @@ class HomeController extends BaseController
     }
     public function about(): string
     {
-        return view('Frontend/Layouts/header')
+        return view('Frontend/layouts/header')
             . view('Frontend/about')
-            . view('Frontend/Layouts/footer');
+            . view('Frontend/layouts/footer');
     }
     public function projects(): string
     {
-        return view('Frontend/Layouts/header')
+        return view('Frontend/layouts/header')
             . view('Frontend/projects')
-            . view('Frontend/Layouts/footer');
+            . view('Frontend/layouts/footer');
     }
     public function services(): string
     {
-        return view('Frontend/Layouts/header')
+        return view('Frontend/layouts/header')
             . view('Frontend/services')
-            . view('Frontend/Layouts/footer');
+            . view('Frontend/layouts/footer');
     }
 }

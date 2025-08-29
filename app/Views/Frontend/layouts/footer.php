@@ -3,7 +3,7 @@
         <div class="row footer-area">
             <div class="col-lg-3 col-sm-6 sm-padding">
                 <div class="footer-widget">
-                    <a class='footer-logo' href='index.html'><img src="<?= base_url('assets/img/logo-dark.png') ?>" alt="logo"></a>
+                    <a class='footer-logo' href='index.html'><img src="<?= base_url('assets/img/logo/lightmode.png') ?>" alt="logo"></a>
                     <p>Our success in creating business solutions is due in part spacially to talented committed team.</p>
                     <ul class="footer-social">
                         <li><a href="#"><i class="lab la-facebook-f"></i></a></li>
@@ -17,12 +17,11 @@
                 <div class="footer-widget">
                     <h3>Company</h3>
                     <ul class="footer-list">
-                        <li><a href='about.html'>About Us</a></li>
-                        <li><a href='contact.html'>Get in Touch</a></li>
-                        <li><a href='faqs.html'>Help &amp; Faqs</a></li>
-                        <li><a href='faqs.html'>Privacy Policy</a></li>
-                        <li><a href='contact.html'>Support</a></li>
-                    </ul>
+                        <li><a href='<?= base_url('/about') ?>'>About Us</a></li>
+                        <li><a href="<?= base_url('/contact') ?>">Get in Touch</a></li>
+                         <li><a href='<?= base_url('/services') ?>'>Our Services</a></li>
+                        <li><a href="<?= base_url('/projects') ?>">Projects</a>   
+                        </ul>
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6 sm-padding">
@@ -30,9 +29,9 @@
                     <h3>Information</h3>
                     <ul class="footer-list">
                         <li>
-                            <p>3770 Hidden Meadow Drive Venturia, ND 58489</p>
+                            <p>Saiful Chowk Solapur-413003</p>
                         </li>
-                        <li><a href="tel:7045550127">+91 9511672478</a></li>
+                        <li><a href="tel:7045550127">+91 9404809511</a></li>
                         <li><a href="#">
                                 <span>
                                     trishulastech@gmail.com</span></a></li>
